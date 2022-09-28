@@ -1,0 +1,35 @@
+{
+    "data": {
+        "store"     : "Cool Nails 1",
+        "slug"      : "cool-nails-1",
+        "phone"     : "(315) 507-2768",
+        "email"     : "nhanlu866@gmail.com",
+        "address"   : "4632 Commercial Dr New Hartford, NY 13413",
+        "time_1"    : "Mon - Fri: 10:00 AM - 7:00 PM",
+        "time_2"    : "Sat: 10:00 AM - 6:00 PM",
+        "time_3"    : "Sun: Closed"
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/profile.php?id=100064305812176",
+        "instagram" :   "https://www.instagram.com/coolnails.1/",
+        "google"    :   "https://goo.gl/maps/EDoJiztg5znGxsWN6", 
+        "booking"   :   "https://www.lldtek.com/salon/appt/NDIzNTl8Y29vbG5haWxzMXxOWV8wNzYyMHw1NGI4MDdmNTQ3YTc4ZjEwZmM4NDQ4NDgwNWYxNzE2Yg==",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11655.360386112145!2d-75.313332!3d43.086857!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1d89cc20fd280fcb!2sCoolnails1!5e0!3m2!1sen!2s!4v1664179722521!5m2!1sen!2s"
+    },
+    "color": {
+        "primary"               :   "#20419b",
+        "primary_light"         :   "#2098d4",
+        "primary_hover"         :   "#2098d4",
+        "secondary"             :   "#90C73E",
+        "secondary_hover"       :   "#88BC3A",
+        "text_primary"          :   "#FFFFFF",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "on",
+    "path_image":   "images",
+    "domain":       "http://127.0.0.1:5500/"
+}
